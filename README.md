@@ -5,4 +5,4 @@
 
 **- Learning Curve:** Gained exposure to unsupervised ML, mastered k-means algorithm principles such as the elbow method
 
-**= Further Impact:** Conducted analyses of bike ridership patterns, offering strategic suggestions to bolster urban planning and sustainability in NYC
+**- Further Impact:** Conducted analyses of bike ridership patterns, offering strategic suggestions to bolster urban planning and sustainability in NYC

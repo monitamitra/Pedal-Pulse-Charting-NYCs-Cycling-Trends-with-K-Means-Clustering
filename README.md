@@ -1,5 +1,5 @@
 # Pedal Pulse: Charting NYC's Cycling Trends with K-Means Clustering
-- **Solution Design:** Engineered a k-means clustering model with Python and scikit-learn to analyze NYC Citi Bike usage, focusing on geospatial and trip time trends.
-- **Data Analysis:** Leveraged Pandas, Numpy, Scipy for data preprocessing, and applied Matplotlib and Seaborn for visualizing clusters and detailed bike usage patterns
-- **Learning Curve:** Gained exposure to unsupervised ML, mastered k-means algorithm principles such as the elbow method
-- **Further Impact:** Conducted analyses of bike ridership patterns, offering strategic suggestions to bolster urban planning and sustainability in NYC
+- **Model Design:** Developed a k-means clustering model with Python and scikit-learn to analyze NYC Citi Bike’s geospatial and time trends
+- **Data Management:** Leveraged Pandas, Numpy, and Scipy for streamlined data handling and preprocessing
+- **Data Visualization:** Gained expertise in Matplotlib and Seaborn for developing diverse data visualizations such as scatter plots, line plots, and box plots
+- **Impactful Data Analysis:** Derived actionable insights utilizing unsupervised ML techniques to bolster urban planning and sustainability initiatives in NYC
